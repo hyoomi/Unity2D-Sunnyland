@@ -447,8 +447,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkSpeed: 3
-  jumpForce: 300
-  foot: {fileID: 10757048}
+  jumpForce: 400
+  foot: {fileID: 10757049}
   radius: 0.2
   ground:
     serializedVersion: 2

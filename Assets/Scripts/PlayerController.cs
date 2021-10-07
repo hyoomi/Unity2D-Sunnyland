@@ -62,8 +62,4 @@ public class PlayerController : MonoBehaviour
         _rigid.AddForce(new Vector2(0f, jumpForce));
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        _canjump = true;
-    }
 }
